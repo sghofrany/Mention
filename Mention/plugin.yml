@@ -1,0 +1,6 @@
+name: Mention
+main: me.iran.bukkit.Mention
+version: 0.01
+commands:
+  mention:
+    description: duel
